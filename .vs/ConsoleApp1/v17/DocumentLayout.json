@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\blockchaineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\blockchaineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\miningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\miningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\blockchaindisplayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\blockchaindisplayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MiningService.cs",
+              "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\MiningService.cs",
+              "RelativeDocumentMoniker": "Services\\MiningService.cs",
+              "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\MiningService.cs",
+              "RelativeToolTip": "Services\\MiningService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-11T17:15:18.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BlockChainDisplayService.cs",
+              "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\BlockChainDisplayService.cs",
+              "RelativeDocumentMoniker": "Services\\BlockChainDisplayService.cs",
+              "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\BlockChainDisplayService.cs",
+              "RelativeToolTip": "Services\\BlockChainDisplayService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T18:02:07.394Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HashingService.cs",
+              "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\HashingService.cs",
+              "RelativeDocumentMoniker": "Services\\HashingService.cs",
+              "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\HashingService.cs",
+              "RelativeToolTip": "Services\\HashingService.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAowBcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:56:42.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BlockChaineService.cs",
+              "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\BlockChaineService.cs",
+              "RelativeDocumentMoniker": "Services\\BlockChaineService.cs",
+              "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\BlockChaineService.cs",
+              "RelativeToolTip": "Services\\BlockChaineService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:52:20.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ConsoleApp1.csproj",
+              "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\ConsoleApp1.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp1.csproj",
+              "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\ConsoleApp1.csproj",
+              "RelativeToolTip": "ConsoleApp1.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-05-06T17:51:05.53Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Block.cs",
+              "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Models\\Block.cs",
+              "RelativeDocumentMoniker": "Models\\Block.cs",
+              "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Models\\Block.cs",
+              "RelativeToolTip": "Models\\Block.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:14:41.35Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-06T17:11:13.506Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

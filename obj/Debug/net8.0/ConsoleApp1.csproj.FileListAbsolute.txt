@@ -1,0 +1,42 @@
+C:\blockchaine\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\blockchaine\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\blockchaine\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\blockchaine\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\blockchaine\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.exe
+C:\blockchaine\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\blockchaine\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\blockchaine\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\blockchaine\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\blockchaine\ConsoleApp1\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\blockchaine\ConsoleApp1\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1 — kopia\bin\Debug\net8.0\ConsoleApp1.exe
+C:\blockchaine\ConsoleApp1 — kopia\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\blockchaine\ConsoleApp1 — kopia\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\blockchaine\ConsoleApp1 — kopia\bin\Debug\net8.0\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1 — kopia\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\blockchaine\ConsoleApp1 — kopia\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\blockchaine\ConsoleApp1 — kopia\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\blockchaine\ConsoleApp1 — kopia\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\blockchaine\ConsoleApp1 — kopia\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\blockchaine\ConsoleApp1 — kopia\obj\Debug\net8.0\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1 — kopia\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1 — kopia\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\blockchaine\ConsoleApp1 — kopia\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\blockchaine\ConsoleApp1 — kopia\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ConsoleApp1.AssemblyInfoInputs.cache
+C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ConsoleApp1.AssemblyInfo.cs
+C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\refint\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ConsoleApp1.pdb
+C:\blockchaine\ConsoleApp1 — kopia — kopia\bin\Debug\net8.0\ConsoleApp1.exe
+C:\blockchaine\ConsoleApp1 — kopia — kopia\bin\Debug\net8.0\ConsoleApp1.deps.json
+C:\blockchaine\ConsoleApp1 — kopia — kopia\bin\Debug\net8.0\ConsoleApp1.runtimeconfig.json
+C:\blockchaine\ConsoleApp1 — kopia — kopia\bin\Debug\net8.0\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1 — kopia — kopia\bin\Debug\net8.0\ConsoleApp1.pdb
+C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
+C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ref\ConsoleApp1.dll
