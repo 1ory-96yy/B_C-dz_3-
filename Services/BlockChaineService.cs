@@ -82,9 +82,20 @@ namespace ConsoleApp1.Services
 
         public bool ResolveConsensus(List<Block> competingChain, Func<string, bool> isValidHash)
         {
-            if (!competingChain.Any() || !IsChainValid(isValidHash))
+            if (!competingChain.Any())
                 return false;
-
+            for (int i = 1; i < competingChain.Count; i++)
+            {
+                var currentBlock = competingChain[i];
+                var previousBlock = competingChain[i - 1];
+                var hashingService = new HashingService();
+                if (currentBlock.hash != hashingService.ComputeHash(currentBlock))
+                    return false;
+                if (currentBlock.previousHash != previousBlock.hash)
+                    return false;
+                if (!isValidHash(currentBlock.hash))
+                    return false;
+            }
             if (competingChain.Count > this.chain.Count)
             {
                 this.chain = competingChain;
