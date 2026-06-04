@@ -11,10 +11,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            string uniqueSignature = "cafe";
-            Func<string, bool> isValidHash = hash => hash.StartsWith("00") && hash.Contains(uniqueSignature);
+            string uniqueSignature = "ace";
+            var consensusRule = new ConsoleApp1.Services.ConsensusRule(uniqueSignature);
 
-            var blockchain = new BlockChaineService(isValidHash);
+            var blockchain = new BlockChaineService(consensusRule);
 
             blockchain.AddBlock("Block1 Data");
             blockchain.AddBlock("Block2 Data");
@@ -30,7 +30,7 @@ namespace ConsoleApp1
             var attackerChain = new List<Block>(blockchain.chain.GetRange(0, 2));
 
             var attackerBlock2 = new Block(2, "Attacker stole1000 coins", attackerChain[1].hash);
-            var miningService = new MiningService(isValidHash);
+            var miningService = new MiningService(consensusRule);
             miningService.MineBlock(attackerBlock2, blockchain.Difficulty);
             attackerChain.Add(attackerBlock2);
 
@@ -48,7 +48,7 @@ namespace ConsoleApp1
                 Console.WriteLine($"Index: {block.index}, Hash: {block.hash}, Data: {block.data}");
             }
 
-            bool replaced = blockchain.ResolveConsensus(attackerChain, isValidHash);
+            bool replaced = blockchain.ResolveConsensus(attackerChain);
 
             Console.WriteLine("\nAfter resolving consensus:");
             foreach (var block in blockchain.chain)
@@ -65,7 +65,7 @@ namespace ConsoleApp1
             {
                 blockchain.AddBlock("First block data");
                 displayService.printChain(blockchain.chain.TakeLast(5).ToList());
-                displayService.printChainValidity(blockchain.IsChainValid(isValidHash));
+                displayService.printChainValidity(blockchain.IsChainValid());
                 Thread.Sleep(2000);
                 Console.Clear();
             }

@@ -40,3 +40,4 @@ C:\blockchaine\ConsoleApp1 — kopia — kopia\bin\Debug\net8.0\ConsoleApp1.dll
 C:\blockchaine\ConsoleApp1 — kopia — kopia\bin\Debug\net8.0\ConsoleApp1.pdb
 C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ConsoleApp1.genruntimeconfig.cache
 C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ref\ConsoleApp1.dll
+C:\blockchaine\ConsoleApp1 — kopia — kopia\obj\Debug\net8.0\ConsoleApp1.sourcelink.json

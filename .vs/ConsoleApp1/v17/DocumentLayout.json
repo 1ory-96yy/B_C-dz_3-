@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\consensusrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\consensusrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\iconsensusrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\iconsensusrule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\blockchaineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\blockchaineservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\miningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\miningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\blockchaindisplayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\blockchaindisplayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\miningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\miningservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\hashingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -21,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:models\\block.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\services\\blockchaindisplayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|solutionrelative:services\\blockchaindisplayservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F67B56D5-BFB3-414E-89C8-558681B104A1}|ConsoleApp1.csproj|c:\\blockchaine\\consoleapp1 \u2014 kopia \u2014 kopia\\consoleapp1.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -38,12 +46,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 11,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -53,21 +57,51 @@
               "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ConsensusRule.cs",
+              "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\ConsensusRule.cs",
+              "RelativeDocumentMoniker": "Services\\ConsensusRule.cs",
+              "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\ConsensusRule.cs",
+              "RelativeToolTip": "Services\\ConsensusRule.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:37:20.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IConsensusRule.cs",
+              "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\IConsensusRule.cs",
+              "RelativeDocumentMoniker": "Services\\IConsensusRule.cs",
+              "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\IConsensusRule.cs",
+              "RelativeToolTip": "Services\\IConsensusRule.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-04T15:37:15.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "MiningService.cs",
               "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\MiningService.cs",
               "RelativeDocumentMoniker": "Services\\MiningService.cs",
               "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\MiningService.cs",
               "RelativeToolTip": "Services\\MiningService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAQwDQAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAACAAAAAAAAAAAAAAADQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-11T17:15:18.965Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "BlockChainDisplayService.cs",
               "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\BlockChainDisplayService.cs",
               "RelativeDocumentMoniker": "Services\\BlockChainDisplayService.cs",
@@ -75,11 +109,12 @@
               "RelativeToolTip": "Services\\BlockChainDisplayService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAA9AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-05-06T18:02:07.394Z"
+              "WhenOpened": "2026-05-06T18:02:07.394Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "HashingService.cs",
               "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\HashingService.cs",
               "RelativeDocumentMoniker": "Services\\HashingService.cs",
@@ -91,20 +126,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "BlockChaineService.cs",
               "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\BlockChaineService.cs",
               "RelativeDocumentMoniker": "Services\\BlockChaineService.cs",
               "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Services\\BlockChaineService.cs",
               "RelativeToolTip": "Services\\BlockChaineService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAwAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T17:52:20.327Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "ConsoleApp1.csproj",
               "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\ConsoleApp1.csproj",
               "RelativeDocumentMoniker": "ConsoleApp1.csproj",
@@ -116,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Block.cs",
               "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Models\\Block.cs",
               "RelativeDocumentMoniker": "Models\\Block.cs",
@@ -128,13 +163,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\blockchaine\\ConsoleApp1 \u2014 kopia \u2014 kopia\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwAwAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-06T17:11:13.506Z",
               "EditorCaption": ""

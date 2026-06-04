@@ -8,12 +8,12 @@ namespace ConsoleApp1.Services
     public class MiningService
     {
         private readonly HashingService _hashingService;
-        private readonly Func<string, bool> _isValidHash;
+        private readonly IConsensusRule _consensusRule;
 
-        public MiningService(Func<string, bool> isValidHash)
+        public MiningService(IConsensusRule consensusRule)
         {
             _hashingService = new HashingService();
-            _isValidHash = isValidHash;
+            _consensusRule = consensusRule;
         }
 
         public void MineBlock(Block block, int difficulty)
@@ -30,7 +30,7 @@ namespace ConsoleApp1.Services
                 while (!cancellationToken.IsCancellationRequested)
                 {
                     string hash = _hashingService.ComputeSha256($"{block.index}{block.timestamp}{block.previousHash}{block.data}{localNonce}");
-                    if (_isValidHash(hash))
+                    if (_consensusRule.IsValidHash(hash, difficulty))
                     {
                         lock (lockObject)
                         {

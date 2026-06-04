@@ -17,12 +17,14 @@ namespace ConsoleApp1.Services
 
 
         private readonly MiningService _miningService;
+        private readonly IConsensusRule _consensusRule;
 
-        public BlockChaineService(Func<string, bool> isValidHash)
+        public BlockChaineService(IConsensusRule consensusRule)
         {
             this.chain = new List<Block>();
             this.hashingService = new HashingService();
-            this._miningService = new MiningService(isValidHash);
+            this._consensusRule = consensusRule;
+            this._miningService = new MiningService(consensusRule);
             this.CreateGenesisBlock();
         }
 
@@ -64,7 +66,7 @@ namespace ConsoleApp1.Services
             }
         }
         
-        public bool IsChainValid(Func<string, bool> isValidHash)
+        public bool IsChainValid()
         {
             for (int i = 1; i < this.chain.Count; i++)
             {
@@ -74,13 +76,13 @@ namespace ConsoleApp1.Services
                     return false;
                 if (currentBlock.previousHash != previousBlock.hash)
                     return false;
-                if (!isValidHash(currentBlock.hash))
+                if (!_consensusRule.IsValidHash(currentBlock.hash, currentBlock.Difficulty))
                     return false;
             }
             return true;
         }
 
-        public bool ResolveConsensus(List<Block> competingChain, Func<string, bool> isValidHash)
+        public bool ResolveConsensus(List<Block> competingChain)
         {
             if (!competingChain.Any())
                 return false;
@@ -93,7 +95,7 @@ namespace ConsoleApp1.Services
                     return false;
                 if (currentBlock.previousHash != previousBlock.hash)
                     return false;
-                if (!isValidHash(currentBlock.hash))
+                if (!_consensusRule.IsValidHash(currentBlock.hash, currentBlock.Difficulty))
                     return false;
             }
             if (competingChain.Count > this.chain.Count)
