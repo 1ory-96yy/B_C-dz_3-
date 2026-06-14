@@ -10,7 +10,7 @@ namespace ConsoleApp1.Services
     public class BlockChaineService
     {
         public List<Block> chain { get; set; }
-        public int Difficulty { get; set; } = 10;
+        public int Difficulty { get; set; } = 1;
         private readonly HashingService hashingService;
         private readonly int _adjustmentInterval = 2;
         private readonly int _blockGenerationInterval = 5;

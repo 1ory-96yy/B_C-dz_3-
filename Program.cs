@@ -66,8 +66,6 @@ namespace ConsoleApp1
                 blockchain.AddBlock("First block data");
                 displayService.printChain(blockchain.chain.TakeLast(5).ToList());
                 displayService.printChainValidity(blockchain.IsChainValid());
-                Thread.Sleep(2000);
-                Console.Clear();
             }
         }
     }

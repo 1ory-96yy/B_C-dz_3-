@@ -29,7 +29,7 @@ namespace ConsoleApp1.Services
                 long localNonce = i;
                 while (!cancellationToken.IsCancellationRequested)
                 {
-                    string hash = _hashingService.ComputeSha256($"{block.index}{block.timestamp}{block.previousHash}{block.data}{localNonce}");
+                    string hash = _hashingService.ComputeSha256($"{block.index}{block.timestamp}{block.data}{block.previousHash}{localNonce}");
                     if (_consensusRule.IsValidHash(hash, difficulty))
                     {
                         lock (lockObject)
